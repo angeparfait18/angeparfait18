@@ -1,7 +1,7 @@
 # 👋 Bonjour, je suis Ange Parfait Amonkou!
 
 ### 📊 Étudiant en Science des Données Appliquée
-Futur Data Scientist dédié à la transformation des données brutes en décisions stratégiques. Je combine la puissance de Python et R avec une expertise en SQL pour structurer, analyser et visualiser des jeux de données complexes.
+Futur Data Scientist dédié à la transformation des données brutes en décisions stratégiques. Je combine les languages comme Python et R avec une expertise en SQL pour structurer, analyser et visualiser des jeux de données complexes.
 
 ---
 
