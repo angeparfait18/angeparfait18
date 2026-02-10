@@ -27,11 +27,6 @@ Ce projet démontre ma capacité à gérer l'interface entre une application Jav
 
 ---
 
-### 📈 Mes Statistiques GitHub
-![Statistiques de Ange](https://github-readme-stats.vercel.app/api?username=angeparfait18&show_icons=true&theme=radical)
-
----
-
 ### 📫 Me contacter
 * **téléphone :** +18736505040
 * **Email :** angeamonkou12@gmail.com 
