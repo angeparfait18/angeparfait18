@@ -1,16 +1,37 @@
-## Hi there 👋
+# 👋 Bonjour, je suis Ange Parfait Amonkou!
 
-<!--
-**angeparfait18/angeparfait18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📊 Étudiant en Science des Données Appliquée
+Futur Data Scientist dédié à la transformation des données brutes en décisions stratégiques. Je combine la puissance de Python et R avec une expertise en SQL pour structurer, analyser et visualiser des jeux de données complexes.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Mon Stack Technique
+
+**Langages de programmation & Analyse :**
+* 🐍 **Python** : Analyse de données, scripts d'automatisation.
+* ☕ **Java** : Programmation Orientée Objet et connexion aux bases de données (JDBC).
+* 📈 **R** : Analyses statistiques et modélisation de données.
+
+**Outils & Applications :**
+* 🗄️ **SQL (MySQL/PostgreSQL)** : Conception de schémas et requêtes complexes.
+* 📊 **Power BI** : Création de dashboards interactifs et visualisation de données.
+* 💻 **IntelliJ IDEA & VS Code** : Environnements de développement principaux.
+* 🐙 **Git & GitHub** : Gestion de version et collaboration.
+
+---
+
+### 📂 Projet mis en valeur
+#### [Gestionnaire de Contacts Java & MySQL](https://github.com/angeparfait18/Projet_Programmation_Avanc-e)
+Ce projet démontre ma capacité à gérer l'interface entre une application Java et une base de données relationnelle, un aspect crucial pour la gestion de pipelines de données.
+* **Lien du site :** [Voir mon Portfolio en ligne] (https://angeparfait18.github.io/Projet_Programmation_Avanc-e/)
+
+---
+
+### 📈 Mes Statistiques GitHub
+![Statistiques de Ange](https://github-readme-stats.vercel.app/api?username=angeparfait18&show_icons=true&theme=radical)
+
+---
+
+### 📫 Me contacter
+* **téléphone :** +18736505040
+* **Email :** angeamonkou12@gmail.com 
